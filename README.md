@@ -3,8 +3,8 @@ Simple text editor with some additional features
 
 Specs:
 <p>Ram: <b>1GB or more</b></p>
-<p>Storage: <b>50MB or more</b></p>
 <p>
+  Supported OS
   <ol>
     <li>Windows Vista</li>
     <li>Windows 7 SP1</li>
